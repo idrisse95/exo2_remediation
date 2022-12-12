@@ -21538,3 +21538,13 @@ section:nth-child(4) {
     display: block !important;
   }
 }
+@media screen and (max-width: 1300px) {
+  #hidden {
+    padding: 0 5%;
+    text-align: center;
+    margin-bottom: 30% !important;
+  }
+  #hidden img {
+    margin-bottom: 5%;
+  }
+}
