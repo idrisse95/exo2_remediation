@@ -21483,4 +21483,12 @@ section:nth-child(4) {
     width: 100%;
     padding: 3% 0;
   }
+  #hidden {
+    padding: 0 5%;
+    text-align: center;
+  }
+  #hidden img {
+    position: static;
+    margin-bottom: 5%;
+  }
 }
