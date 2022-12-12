@@ -21479,9 +21479,6 @@ section:nth-child(4) {
   }
   header #head #b button {
     margin-right: 0 !important;
-    margin-top: 5%;
-    width: 100%;
-    padding: 3% 0;
   }
   section {
     padding: 0 10%;
@@ -21512,5 +21509,23 @@ section:nth-child(4) {
   }
   #flexS ul li img {
     margin: 15% 0;
+  }
+  #goog {
+    text-align: center;
+    margin-bottom: 20% !important;
+  }
+  #goog img {
+    margin-top: 20%;
+  }
+  #clip {
+    padding: 0 15%;
+  }
+  button {
+    width: 100%;
+    padding: 5% 0;
+  }
+  #butt1 {
+    margin-right: 0 !important;
+    margin-bottom: 5%;
   }
 }
