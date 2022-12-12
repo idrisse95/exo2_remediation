@@ -21402,3 +21402,12 @@ ul {
   list-style: none;
   padding-left: 0;
 }
+
+#hidden {
+  position: relative;
+  margin-bottom: 40%;
+}
+#hidden img {
+  overflow: hidden;
+  left: -20px;
+}
