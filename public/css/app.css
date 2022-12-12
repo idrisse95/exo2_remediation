@@ -21528,4 +21528,13 @@ section:nth-child(4) {
     margin-right: 0 !important;
     margin-bottom: 5%;
   }
+  #f {
+    text-align: center;
+  }
+  #f #ulF {
+    display: block !important;
+  }
+  #f #ulI {
+    display: block !important;
+  }
 }
