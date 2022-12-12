@@ -21459,5 +21459,13 @@ section:nth-child(4) {
 }
 
 #foot {
-  background-color: #e5e5e5;
+  background-color: rgba(229, 229, 229, 0.2784313725);
+}
+
+@media screen and (max-width: 376px) {
+  header {
+    background: url(../../public/images/bg-header-mobile.png);
+    background-position: cover;
+    padding-left: 20px;
+  }
 }
