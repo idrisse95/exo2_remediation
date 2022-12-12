@@ -21393,6 +21393,9 @@ header #head ul #butt1 {
   border: none;
   box-shadow: 2px 2px 3px #69caad;
 }
+header #head ul #butt1:hover {
+  background-color: #499780;
+}
 header #head ul #butt2 {
   background-color: #6c69ca;
   color: white;
@@ -21400,6 +21403,9 @@ header #head ul #butt2 {
   border-radius: 30px;
   border: none;
   box-shadow: 2px 2px 3px #6c69ca;
+}
+header #head ul #butt2:hover {
+  background-color: #5754ab;
 }
 
 ul {
