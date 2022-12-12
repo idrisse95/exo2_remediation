@@ -21373,6 +21373,7 @@ header {
   padding-top: 3%;
 }
 header #head {
+  margin-bottom: 10%;
   padding-top: 0;
 }
 header #head ul li {
@@ -21395,4 +21396,9 @@ header #head ul #butt2 {
   border-radius: 30px;
   border: none;
   box-shadow: 2px 2px 3px #6c69ca;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
 }
