@@ -21466,6 +21466,21 @@ section:nth-child(4) {
   header {
     background: url(../../public/images/bg-header-mobile.png);
     background-position: cover;
-    padding-left: 20px;
+    background-repeat: no-repeat;
+    padding-top: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  header #head {
+    margin-bottom: 20%;
+  }
+  header #head #b {
+    display: block !important;
+  }
+  header #head #b button {
+    margin-right: 0 !important;
+    margin-top: 5%;
+    width: 100%;
+    padding: 3% 0;
   }
 }
