@@ -21366,6 +21366,10 @@ textarea.form-control-lg {
   font-family: "idr";
   src: url(../../public/font/fUn.ttf);
 }
+body {
+  font-size: 13px;
+}
+
 header {
   background: url(../../public/images/bg-header-desktop.png);
   background-repeat: no-repeat;
@@ -21408,9 +21412,10 @@ ul {
 }
 #hidden img {
   overflow: hidden;
+  position: absolute;
   left: -20px;
 }
 
 section:nth-child(4) {
-  margin-top: 9%;
+  margin-top: 19%;
 }
