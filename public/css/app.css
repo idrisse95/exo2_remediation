@@ -21529,12 +21529,28 @@ section:nth-child(4) {
     margin-bottom: 5%;
   }
   #f {
+    display: block !important;
     text-align: center;
+    width: 100%;
+    padding-left: 50%;
+  }
+  #f #c {
+    width: 100%;
+  }
+  #f #log {
+    width: 100%;
+  }
+  #f #log img {
+    margin-letf: 5%;
   }
   #f #ulF {
+    padding: auto;
     display: block !important;
   }
-  #f #ulI {
+  #f #ulF li {
+    margin-bottom: 4%;
+  }
+  #clip #e {
     display: block !important;
   }
 }
